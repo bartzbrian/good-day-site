@@ -3,7 +3,7 @@ var mappedSunColor;
 var font;
 
 function preload(){
-  font = loadFont('Jacquard24-Regular.ttf');
+  font = loadFont('font/Jacquard24-Regular.ttf');
 }
 
 function setup() {
